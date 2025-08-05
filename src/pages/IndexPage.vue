@@ -83,22 +83,3 @@ export default {
     }
   }
 }
-=======
-  <q-page class="flex flex-center">
-    <img
-      alt="Quasar logo"
-      src="~assets/quasar-logo-vertical.svg"
-      style="width: 200px; height: 200px"
-    >
-        <img
-      alt="Quasar logo"
-      src="~assets/quasar-logo-vertical.svg"
-      style="width: 200px; height: 200px"
-    >
-  </q-page>
-</template>
-
-<script setup>
-//
->>>>>>> 1a82bf5729b213e858cd203c941d5999d0838ef6
-</script>
